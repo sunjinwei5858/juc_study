@@ -1,0 +1,40 @@
+package com.sunjinwei.cyclicbarrier;
+
+import java.util.concurrent.BrokenBarrierException;
+import java.util.concurrent.CyclicBarrier;
+
+/**
+ * CyclicBarrier:与CountDownLatch相反，做加法，
+ * 大白话：人到齐了开会 先到的先等着
+ */
+public class CyclicBarrierDemo {
+
+    public static void main(String[] args) {
+
+        CyclicBarrier cyclicBarrier = new CyclicBarrier(7, () -> {
+            System.out.println("召唤神龙");
+        });
+
+        for (int i = 1; i <= 7; i++) {
+            final int temp = i;
+            new Thread(() -> {
+                System.out.println(Thread.currentThread().getName() + "集齐第" + temp + "颗龙珠");
+
+                /**
+                 * 需要进行等待
+                 */
+                try {
+                    cyclicBarrier.await();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                } catch (BrokenBarrierException e) {
+                    e.printStackTrace();
+                }
+
+            }, String.valueOf(i)).start();
+
+        }
+
+
+    }
+}
