@@ -28,6 +28,10 @@ public class CountDownLatchDemo {
             }, CountryEnum.getCountryByCode(i).getCountryName()).start();
         }
 
+        /**
+         * main线程调用await，当一个或多个线程调用await方法时，调用线程会被阻断
+         * 当计数器的指变为零时，因调用await方法被阻塞的线程会被唤醒，继续执行。
+         */
         try {
             countDownLatch.await();
         } catch (InterruptedException e) {
