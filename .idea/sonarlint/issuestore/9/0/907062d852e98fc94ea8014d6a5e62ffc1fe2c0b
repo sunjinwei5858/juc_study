@@ -1,16 +1,16 @@
 
-~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÙÆĞøÿÿÿÿ8Ä¥.
-Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ä¥.
-Fsquid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ä¥.
-Jsquid:S1602",Remove useless curly braces around statement(¥—ığ8Ä¥.
-Jsquid:S1602"",Remove useless curly braces around statement(¥—ığ8Ä¥.
-Qsquid:S3077/".Remove the "volatile" keyword from this field.(ôé×±úÿÿÿÿ8Ä¥.
-[
-squid:S106;"9Replace this use of System.out or System.err by a logger.(½ĞÚúÿÿÿÿ8Ä¥.
-[
-squid:S106="9Replace this use of System.out or System.err by a logger.(Ó¤’ùÿÿÿÿÿ8Ä¥.
-[
-squid:S106I"9Replace this use of System.out or System.err by a logger.(±õƒÌÿÿÿÿÿ8Ä¥.
-U
-squid:S106K"9Replace this use of System.out or System.err by a logger.(•ìÚq8Ä¥.
-dsquid:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ä¥.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ığ8ÎØ€¦.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ığ8ÎØ€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ĞÚúÿÿÿÿ8ÎØ€¦.
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÎØ€¦.
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÙÆĞøÿÿÿÿ8ÎØ€¦.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎØ€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±õƒÌÿÿÿÿÿ8ÎØ€¦.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ìÚq8ÎØ€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó¤’ùÿÿÿÿÿ8ÎØ€¦.
+Osquid:S3077".Remove the "volatile" keyword from this field.(ôé×±úÿÿÿÿ8ÎØ€¦.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎØ€¦.

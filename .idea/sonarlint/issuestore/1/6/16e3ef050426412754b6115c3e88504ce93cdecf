@@ -1,7 +1,13 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(”Ãâ«ÿÿÿÿÿ8ŠÚ¥.
-Jsquid:S1602
-",Remove useless curly braces around statement(¥—ığ8ŠÚ¥.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ó›ûÿÿÿÿ8ŠÚ¥.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Ãâ«ÿÿÿÿÿ8¥—€¦.
+^squid:UnusedPrivateMethod"5Remove this unused private "unCountDownLatch" method.(ŠĞ‚*8¥—€¦.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ığ8¥—€¦.
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¥—€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ó›ûÿÿÿÿ8¥—€¦.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥—€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Ãâ«ÿÿÿÿÿ8¥—€¦.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ó›ûÿÿÿÿ8¥—€¦.
