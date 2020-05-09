@@ -1,29 +1,29 @@
 
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
+Jsquid:S1612",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
 Jsquid:S1612+",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
-Jsquid:S1602",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
-Jsquid:S16120",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
-Jsquid:S1612",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
-V
-squid:S106>"9Replace this use of System.out or System.err by a logger.(ñìê½8¬Ð×Íž.
 [
 squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
 [
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
+[
 squid:S106O"9Replace this use of System.out or System.err by a logger.(Š§›Ÿþÿÿÿÿ8¬Ð×Íž.
 [
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
-Fsquid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ð×Íž.
-Jsquid:S1602",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
+Jsquid:S1612",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
 dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¬Ð×Íž.
-Jsquid:S1612",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
-[
-squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
-Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ð×Íž.
+Jsquid:S16120",Replace this lambda with a method reference.(¥—ýð8¬Ð×Íž.
+Jsquid:S1602",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
+Jsquid:S1602+",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
 Jsquid:S16020",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
 U
 squid:S106C"9Replace this use of System.out or System.err by a logger.(˜õúo8¬Ð×Íž.
 [
 squid:S106["9Replace this use of System.out or System.err by a logger.(…îªšþÿÿÿÿ8¬Ð×Íž.
+Jsquid:S1602",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ñìê½8¬Ð×Íž.
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ð×Íž.
+Fsquid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ð×Íž.
 Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬Ð×Íž.
-[
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬Ð×Íž.
-Jsquid:S1602+",Remove useless curly braces around statement(¥—ýð8¬Ð×Íž.
