@@ -32,3 +32,13 @@ p
 Qsrc/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java,8/9/89a0bcd9b1456862446ab8f7e6465fc9aafad0f1
 ‹
 [src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java,d/0/d0ae6d174bbce4b29b3732bae2070404d22ffbc5
+‡
+Wsrc/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java,b/1/b1c4be8eeb0a3218af46eeee227de4e5c8b498b4
+j
+:src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java,b/1/b1bdc33f852400fbc285888b4c99d9b7a18085c6
+f
+6src/main/java/com/sunjinwei/deadlock/DeadLockDemo.java,f/e/fefcc0302d8e0b872c421be705e29874ae6a027e
+h
+8src/main/java/com/sunjinwei/deadlock/HoldLockThread.java,2/2/225ee14f429c1fa0b05eadc3c456425d7dd805ef
+l
+<src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java,9/e/9e1ef10d1cf94c5e9bd89d31d5968b2a246db232

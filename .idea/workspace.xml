@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51d3bbd6-c574-4cc9-aa07-e96bd54ed8e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e3ef050426412754b6115c3e88504ce93cdecf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e3ef050426412754b6115c3e88504ce93cdecf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2186f9deabb54b4d11346c10ec47ff2dda7d5985" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2186f9deabb54b4d11346c10ec47ff2dda7d5985" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/juc_study.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/countdownlatch/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/countdownlatch/type/CountryEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/readWrite/MyCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/readWrite/MyUnCashe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/readWrite/ReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/readWrite/UnReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/reentrant/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/reentrant/ReentrantLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunjinwei/lock/spin/SpinLockDemo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,121 +35,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="19380">
+              <caret line="1200" column="52" selection-start-line="1200" selection-start-column="44" selection-end-line="1200" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1326">
+              <caret line="119" column="58" selection-start-line="119" selection-start-column="58" selection-end-line="119" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/MyThreadPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/HoldLockThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-164">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="417">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#2838#2839#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ProdConsumer_BlockQueueDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="238">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="251" column="12" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="198" column="10" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="10" />
+            <state relative-caret-position="3502">
+              <caret line="249" column="30" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SpinLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SyncAndReentrantLockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="157" column="55" selection-start-line="157" selection-start-column="55" selection-end-line="157" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3723">
-              <caret line="256" column="38" selection-start-line="256" selection-start-column="38" selection-end-line="256" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/type/CountryEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/lock/readWrite/UnReadWriteLockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="102">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -164,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/lock/spin/SpinLockDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/type/CountryEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/CyclicBarrier/CyclicBarrierDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/cyclicbarrier/CyclicBarrierDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java" />
@@ -179,6 +181,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CountDownLatch.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/HelloGC.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/GCOverheadDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StackOverflowErrorDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StrongReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/BlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/MyThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/HoldLockThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java" />
       </list>
     </option>
   </component>
@@ -221,8 +237,8 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-Xms128m -Xms512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="976" />
   </component>
@@ -249,12 +265,6 @@
             </path>
             <path>
               <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo代码" type="462c0819:PsiDirectoryNode" />
-              <item name="ProdConsumer_BlockQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="juc_study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -290,37 +300,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sunjinwei" type="462c0819:PsiDirectoryNode" />
-              <item name="producerconsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sunjinwei" type="462c0819:PsiDirectoryNode" />
-              <item name="producerconsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="version3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sunjinwei" type="462c0819:PsiDirectoryNode" />
-              <item name="producerconsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="version3" type="462c0819:PsiDirectoryNode" />
-              <item name="BlockingQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sunjinwei" type="462c0819:PsiDirectoryNode" />
-              <item name="countdownlatch" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
@@ -375,6 +355,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="atomic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
               <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -388,7 +378,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588991115920" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591952710135" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -418,20 +408,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlockingQueueDemo">
-    <configuration name="BlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.blockqueue.producerconsumer.version3.BlockingQueueDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunjinwei.blockqueue.producerconsumer.version3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
     <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sunjinwei.countdownlatch.CountDownLatchDemo" />
       <module name="juc_study" />
@@ -445,19 +422,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdConsumer_TraditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProdConsumer_TraditionDemo" />
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.deadlock.DeadLockDemo" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunjinwei.deadlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyThreadPoolDemo" />
       <module name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.blockqueue.producerconsumer.version1.SyncVersion" />
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.threadpool.ThreadPoolDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunjinwei.blockqueue.producerconsumer.version1.*" />
+          <option name="PATTERN" value="com.sunjinwei.threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -465,26 +455,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TranditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.queue.producerandconsumer.lockAndCondition.TranditionTest" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunjinwei.queue.lockAndCondition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="WeakReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeakReferenceDemo" />
+      <module name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlockingQueueDemo" />
-        <item itemvalue="Application.SyncVersion" />
-        <item itemvalue="Application.ProdConsumer_TraditionDemo" />
-        <item itemvalue="Application.TranditionTest" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.MyThreadPoolDemo" />
         <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.WeakReferenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +489,14 @@
       <workItem from="1588756532824" duration="5332000" />
       <workItem from="1588807745368" duration="3432000" />
       <workItem from="1588842843875" duration="741000" />
-      <workItem from="1588980071104" duration="3668000" />
+      <workItem from="1588980071104" duration="5145000" />
+      <workItem from="1589098931947" duration="787000" />
+      <workItem from="1589250407607" duration="3722000" />
+      <workItem from="1590764300805" duration="4697000" />
+      <workItem from="1591013682029" duration="220000" />
+      <workItem from="1591435444734" duration="4941000" />
+      <workItem from="1591616483800" duration="9400000" />
+      <workItem from="1591941389639" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 读写锁">
       <created>1588677095137</created>
@@ -549,16 +540,31 @@
       <option name="project" value="LOCAL" />
       <updated>1588683062804</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat:自定义线程池">
+      <created>1591671693228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591671693228</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat:死锁及使用Linux命令进行定位故障">
+      <created>1591671729878</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591671729878</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25162000" />
+    <option name="totallyTimeSpent" value="51633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="976" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2936508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -567,14 +573,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.329849" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329849" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.329849" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50305253" side_tool="true" weight="0.329849" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Problems" order="12" />
@@ -642,54 +648,11 @@
     <MESSAGE value="feat: CountDownLatch 计数器demo" />
     <MESSAGE value="feat: CyclicBarrier demo 做加法" />
     <MESSAGE value="feat: 使用Semaphore 模拟抢车位case" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 使用Semaphore 模拟抢车位case" />
+    <MESSAGE value="feat:自定义线程池" />
+    <MESSAGE value="feat:死锁及使用Linux命令进行定位故障" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:死锁及使用Linux命令进行定位故障" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/juc_study.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/lock/spin/SpinLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/cyclicbarrier/CyclicBarrierDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -715,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/lockAndCondition/Stock.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/lockAndCondition/TranditionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/lockAndCondition/ReentranLockStock.java" />
@@ -729,16 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,6 +702,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#2838#2839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3689">
+          <caret line="251" column="12" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="198" column="10" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5576">
+          <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ProdConsumer_BlockQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="166" column="22" selection-start-line="166" selection-start-column="15" selection-end-line="166" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="131" column="26" selection-start-line="131" selection-start-column="26" selection-end-line="131" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -780,13 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/type/CountryEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/lock/readWrite/UnReadWriteLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -794,63 +828,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/type/CountryEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/HelloGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java">
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/GCOverheadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StackOverflowErrorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StrongReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/GCRootDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/BlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="198" column="10" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="10" />
+        <state relative-caret-position="493">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="251" column="12" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+        <state relative-caret-position="1445">
+          <caret line="118" column="2" selection-start-line="118" selection-start-column="2" selection-end-line="118" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CyclicBarrierDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ProdConsumer_BlockQueueDemo.java">
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SemaphoreDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="408">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="19380">
+          <caret line="1200" column="52" selection-start-line="1200" selection-start-column="44" selection-end-line="1200" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="119" column="58" selection-start-line="119" selection-start-column="58" selection-end-line="119" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/HoldLockThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3502">
+          <caret line="249" column="30" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SpinLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#2838#2839#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -907,7 +1065,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码</last-edited>
+          <last-edited>juc_study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
