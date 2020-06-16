@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/../DataStructures/DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/juc_study.iml" filepath="$PROJECT_DIR$/juc_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码.iml" filepath="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码.iml" />
     </modules>
