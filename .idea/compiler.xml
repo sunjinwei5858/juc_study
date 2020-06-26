@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="datastructure_study" />
         <module name="juc_study" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="datastructure_study" target="8" />
       <module name="juc_study" target="8" />
     </bytecodeTargetLevel>
   </component>
