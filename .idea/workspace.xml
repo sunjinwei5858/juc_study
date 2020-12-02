@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d3bbd6-c574-4cc9-aa07-e96bd54ed8e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/ReferenceQueueDemo.java" afterDir="false" />
+    <list default="true" id="51d3bbd6-c574-4cc9-aa07-e96bd54ed8e1" name="Default Changelist" comment="解释为什么父类的常量被调用">
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/array/Demo26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/array/Demo350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/tree/Demo144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/test/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/test/TestPreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/test/TreeDepthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/tree/Demo589.java" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/algrithem/tree/Demo589.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e3ef050426412754b6115c3e88504ce93cdecf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e3ef050426412754b6115c3e88504ce93cdecf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2186f9deabb54b4d11346c10ec47ff2dda7d5985" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2186f9deabb54b4d11346c10ec47ff2dda7d5985" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/907062d852e98fc94ea8014d6a5e62ffc1fe2c0b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/907062d852e98fc94ea8014d6a5e62ffc1fe2c0b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/../DataStructures/bin/" />
     <ignored path="$PROJECT_DIR$/../datastructure_study/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../datastructure/Algorithm/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,132 +68,129 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="juc_study" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/MyHeapTreeDemo.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="-243">
+              <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-              <folding>
-                <element signature="e#9565#9566#0" expanded="true" />
-                <element signature="e#9632#9633#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ref/ReferenceQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakHashMapDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakReferenceDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SoftReferenceDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="233">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/ReferenceQueueDemo.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="287">
+              <caret line="263" column="35" lean-forward="true" selection-start-line="263" selection-start-column="35" selection-end-line="263" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#6228#6229#0" expanded="true" />
+                <element signature="e#6269#6270#0" expanded="true" />
+                <element signature="e#7915#7916#0" expanded="true" />
+                <element signature="e#7953#7954#0" expanded="true" />
+                <element signature="e#8009#8010#0" expanded="true" />
+                <element signature="e#8073#8074#0" expanded="true" />
+                <element signature="e#9131#9132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ReferenceQueueDemo.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="246">
+              <caret line="266" selection-start-line="266" selection-end-line="266" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+            <state relative-caret-position="280">
+              <caret line="1133" column="25" lean-forward="true" selection-start-line="1133" selection-start-column="25" selection-end-line="1133" selection-end-column="25" />
               <folding>
-                <element signature="e#9341#9342#0" expanded="true" />
-                <element signature="e#9377#9378#0" expanded="true" />
+                <element signature="e#22675#22676#0" expanded="true" />
+                <element signature="e#22703#22704#0" expanded="true" />
+                <element signature="e#22933#22934#0" expanded="true" />
+                <element signature="e#22965#22966#0" expanded="true" />
+                <element signature="e#44444#44445#0" expanded="true" />
+                <element signature="e#44501#44502#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakHashMapDemo.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="221">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/MyHeapSortTest.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -175,62 +207,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ProdConsumer_TraditionDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/producerandconsumer/ReentranLockStock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/producerandconsumer/lockAndCondition/TranditionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/lockAndCondition/ReentranLockStock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/queue/lockAndCondition/TranditionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/vsersion2/LockConditionVersion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version1/SyncVersion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CallableDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/CountDownLatch.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/HelloGC.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/GCOverheadDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StackOverflowErrorDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/StrongReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/BlockingQueueDemo.java" />
-        <option value="$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/MyThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/HoldLockThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/DeadLockDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/sparsearray/SparseArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/system/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/system/ArrayCopyDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/queue/MyArrayQuue.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/queue/MyArrayQuueDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/queue/ArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/queue/MyArrayQueue.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/BinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/HeroNode.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/BinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/binary/HeroNode.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/ArrBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/arrbinary/ArrayBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/arrbinary/ArrayBinaryTree.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/HeroNode.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/ThreaderBinaryTree.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/ThreaderBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/HeapSort.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapTreeDemo02.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapTreeDemo03.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/MyHeapTreeDemo.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapSortTest.java" />
-        <option value="$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakHashMapDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakReferanceDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/ReferenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java" />
       </list>
     </option>
   </component>
@@ -248,60 +237,27 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="juc_study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="juc_study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="juc_study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-Xms128m -Xms512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="316" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="976" />
+    <option name="width" value="1680" />
+    <option name="height" value="974" />
   </component>
+  <component name="ProjectId" id="1fCiNNBFlTU2ZAEjNN5orps3ImH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="true" />
-      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="juc_study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,7 +293,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sunjinwei" type="462c0819:PsiDirectoryNode" />
-              <item name="reference" type="462c0819:PsiDirectoryNode" />
+              <item name="semaphore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
@@ -375,15 +331,6 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="ref" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -394,16 +341,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="atomic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
@@ -415,22 +352,48 @@
               <item name="concurrent" type="462c0819:PsiDirectoryNode" />
               <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="instrument" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593138601127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605009067026" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -438,6 +401,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sunjinwei.singleton" />
       <recent name="com.sunjinwei.tree.heap" />
       <recent name="com.sunjinwei.tree.threaded" />
       <recent name="com.sunjinwei.queue" />
@@ -459,13 +423,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReferenceQueueDemo">
-    <configuration name="HeapTreeDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.tree.heap.HeapTreeDemo02" />
+  <component name="RunManager" selected="Application.SemaphoreDemo">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.load.Demo01" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunjinwei.load.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.load.Demo02" />
+      <module name="juc_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sunjinwei.load.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuanPaiLieDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.algrithem.quanpailie46.QuanPaiLieDemo01" />
       <module name="datastructure_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunjinwei.tree.heap.*" />
+          <option name="PATTERN" value="com.sunjinwei.algrithem.quanpailie46.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.reference.ReferenceQueueDemo" />
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.semaphore.SemaphoreDemo" />
       <module name="juc_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunjinwei.reference.*" />
+          <option name="PATTERN" value="com.sunjinwei.semaphore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,32 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SoftReferenceDemo" />
-      <module name="尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeakHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.reference.WeakHashMapDemo" />
-      <module name="juc_study" />
+    <configuration name="TreeMiniDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.algrithem.minidepth111.TreeMiniDepth" />
+      <module name="datastructure_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sunjinwei.reference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeakReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sunjinwei.reference.WeakReferenceDemo" />
-      <module name="juc_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sunjinwei.reference.*" />
+          <option name="PATTERN" value="com.sunjinwei.algrithem.minidepth111.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,11 +491,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReferenceQueueDemo" />
-        <item itemvalue="Application.SoftReferenceDemo" />
-        <item itemvalue="Application.WeakReferenceDemo" />
-        <item itemvalue="Application.WeakHashMapDemo" />
-        <item itemvalue="Application.HeapTreeDemo02" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.TreeMiniDepth" />
+        <item itemvalue="Application.QuanPaiLieDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -555,42 +525,28 @@
       <workItem from="1591616483800" duration="9400000" />
       <workItem from="1591941389639" duration="25319000" />
       <workItem from="1592520350238" duration="8580000" />
-      <workItem from="1592608476201" duration="54580000" />
-    </task>
-    <task id="LOCAL-00001" summary="feat: 读写锁">
-      <created>1588677095137</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1588677095137</updated>
-    </task>
-    <task id="LOCAL-00002" summary="feat: 可重入锁">
-      <created>1588677123784</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1588677123784</updated>
-    </task>
-    <task id="LOCAL-00003" summary="feat: 手写自旋锁 cas+while">
-      <created>1588677152716</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1588677152716</updated>
-    </task>
-    <task id="LOCAL-00004" summary="feat: CountDownLatch 计数器demo">
-      <created>1588680348587</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1588680348587</updated>
-    </task>
-    <task id="LOCAL-00005" summary="feat: CyclicBarrier demo 做加法">
-      <created>1588681694692</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1588681694692</updated>
+      <workItem from="1592608476201" duration="57309000" />
+      <workItem from="1593163322981" duration="16857000" />
+      <workItem from="1593486740069" duration="36170000" />
+      <workItem from="1594348179003" duration="677000" />
+      <workItem from="1594471283174" duration="1703000" />
+      <workItem from="1594768669692" duration="22854000" />
+      <workItem from="1595688826831" duration="2072000" />
+      <workItem from="1595728850244" duration="31000" />
+      <workItem from="1595728917812" duration="154000" />
+      <workItem from="1595729554200" duration="1246000" />
+      <workItem from="1595732997446" duration="415000" />
+      <workItem from="1595738122404" duration="30958000" />
+      <workItem from="1596459079227" duration="841000" />
+      <workItem from="1596526882889" duration="380000" />
+      <workItem from="1596593985839" duration="10492000" />
+      <workItem from="1596852729986" duration="593000" />
+      <workItem from="1597015175476" duration="2398000" />
+      <workItem from="1597285125226" duration="117000" />
+      <workItem from="1597716302315" duration="4302000" />
+      <workItem from="1597816650949" duration="195000" />
+      <workItem from="1604114165380" duration="5409000" />
+      <workItem from="1604982577739" duration="1898000" />
     </task>
     <task id="LOCAL-00006" summary="feat: 使用Semaphore 模拟抢车位case">
       <created>1588683062804</created>
@@ -711,46 +667,270 @@
       <option name="project" value="LOCAL" />
       <updated>1593137609416</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="feat: 引用队列ReferenceQueue">
+      <created>1593138625981</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1593138625981</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat: 哈夫曼树，最优二叉树">
+      <created>1593257188890</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1593257188890</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat: 二叉排序树的中序遍历和添加">
+      <created>1593313404879</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593313404879</updated>
+    </task>
+    <task id="LOCAL-00026" summary="opt: 使用自己的方式实现冒泡排序代码-while循环代替外层循环">
+      <created>1593507103840</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1593507103840</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat:抽取排序工具类">
+      <created>1593507427164</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1593507427164</updated>
+    </task>
+    <task id="LOCAL-00028" summary="opt: 插入排序实现方法调整，外层循环也进行判断，可以减少比较次数">
+      <created>1593509830750</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1593509830750</updated>
+    </task>
+    <task id="LOCAL-00029" summary="opt:选择排序算法优化">
+      <created>1593510509392</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593510509392</updated>
+    </task>
+    <task id="LOCAL-00030" summary="opt：数组实现队列优化">
+      <created>1593511092534</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1593511092534</updated>
+    </task>
+    <task id="LOCAL-00031" summary="opt: 冒泡排序注释调整">
+      <created>1593584549425</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1593584549425</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat:平衡二叉树的左旋和右旋方法">
+      <created>1593659888475</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1593659888475</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat: 平衡二叉树只需要进行左旋或者右旋的情况">
+      <created>1593668937859</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1593668937859</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat: 平衡二叉树的双旋转">
+      <created>1593672946745</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1593672946745</updated>
+    </task>
+    <task id="LOCAL-00035" summary="feat: hash算法">
+      <created>1595463324974</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1595463324974</updated>
+    </task>
+    <task id="LOCAL-00036" summary="feat: 不使用递归实现二分查找">
+      <created>1595835272997</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1595835272997</updated>
+    </task>
+    <task id="LOCAL-00037" summary="feat: 斐波那契数列的空间复杂度为1的实现，不需要使用递归！！！">
+      <created>1595905125648</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1595905125648</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix: 斐波那契数列增加n=0的处理">
+      <created>1595905292194</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1595905292194</updated>
+    </task>
+    <task id="LOCAL-00039" summary="feat: 斐波那契数列的四种实现">
+      <created>1595919418666</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1595919418666</updated>
+    </task>
+    <task id="LOCAL-00040" summary="feat: 动态规划实现零钱兑换问题">
+      <created>1595994613204</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1595994613204</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat: 动态规划实现零钱兑换问题继续思考">
+      <created>1596595306273</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1596595306273</updated>
+    </task>
+    <task id="LOCAL-00042" summary="feat: 回溯算法全排列问题，get到ArrayList和LinkedList构造方法继续传入集合的其实就是addAll">
+      <created>1596597553055</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1596597553055</updated>
+    </task>
+    <task id="LOCAL-00043" summary="--加入力扣对应的题目号">
+      <created>1596597786081</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1596597786081</updated>
+    </task>
+    <task id="LOCAL-00044" summary="feat: 全排列 回溯 深度优先遍历">
+      <created>1596607676839</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1596607676839</updated>
+    </task>
+    <task id="LOCAL-00045" summary="feat:全排列问题">
+      <created>1597015207691</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1597015207691</updated>
+    </task>
+    <task id="LOCAL-00046" summary="feat:bfs 查询一棵树的深度">
+      <created>1597816823873</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1597816823873</updated>
+    </task>
+    <task id="LOCAL-00047" summary="jvm类加载机制的坑，static方法和字段，被调用，就会初始化。如果字段被static还加了final，那么就不会初始化这个类">
+      <created>1604117520645</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1604117520645</updated>
+    </task>
+    <task id="LOCAL-00048" summary="解释为什么父类的静态常量被调用方引用，也不会实例化这个类，因为这个常量在【编译阶段】放在了调用方的常量池了【出自深入理解jvm】">
+      <created>1604117987279</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1604117987280</updated>
+    </task>
+    <task id="LOCAL-00049" summary="场景三：通过数组引用该类，不会导致该类初始化【深入理解jvm】">
+      <created>1604118235306</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1604118235306</updated>
+    </task>
+    <task id="LOCAL-00050" summary="单例第一种方法：懒汉式">
+      <created>1604118293642</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1604118293645</updated>
+    </task>
+    <task id="LOCAL-00051" summary="单例第二种方式：加入synchonized锁，然后再判断">
+      <created>1604118331358</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1604118331358</updated>
+    </task>
+    <task id="LOCAL-00052" summary="单例创建第三种：先判断，再加锁，DCL【指令重排序会导致失效】">
+      <created>1604118399566</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1604118399566</updated>
+    </task>
+    <task id="LOCAL-00053" summary="单例创建第四种：加入volatile关键字，禁止指令重排序">
+      <created>1604118444209</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1604118444209</updated>
+    </task>
+    <task id="LOCAL-00054" summary="单例创建的第五种方法：静态内部类，并从类加载机制分析">
+      <created>1604127556765</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1604127556765</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138885000" />
+    <option name="totallyTimeSpent" value="7307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="974" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49941927" visible="true" weight="0.3009768" />
-      <window_info id="Structure" order="1" sideWeight="0.5005807" side_tool="true" weight="0.3009768" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5005807" side_tool="true" weight="0.3009768" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.28687572" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32945284" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.329849" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50305253" side_tool="true" weight="0.329849" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329849" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32945284" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.329849" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32945284" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="RestServices" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
@@ -776,7 +956,6 @@
                     <value>
                       <list>
                         <option value="$PROJECT_DIR$" />
-                        <option value="$PROJECT_DIR$/../datastructure_study" />
                       </list>
                     </value>
                   </entry>
@@ -811,29 +990,84 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: 读写锁" />
-    <MESSAGE value="feat: 可重入锁" />
-    <MESSAGE value="feat: 手写自旋锁 cas+while" />
-    <MESSAGE value="feat: CountDownLatch 计数器demo" />
-    <MESSAGE value="feat: CyclicBarrier demo 做加法" />
-    <MESSAGE value="feat: 使用Semaphore 模拟抢车位case" />
-    <MESSAGE value="feat:自定义线程池" />
-    <MESSAGE value="feat:死锁及使用Linux命令进行定位故障" />
-    <MESSAGE value="fix: jdk自带的线程池" />
-    <MESSAGE value="feat: System.arrayCopy()思考" />
-    <MESSAGE value="feat: 二叉树前序中序后续遍历和查找" />
-    <MESSAGE value="feat: 使用普通数组实现队列" />
-    <MESSAGE value="fix: 中序和后序查找注释调整" />
-    <MESSAGE value="feat: 二叉树删除结点" />
-    <MESSAGE value="feat: 顺序存储二叉树--数组通过二叉树实现" />
-    <MESSAGE value="feat: 中序线索化二叉树" />
-    <MESSAGE value="feat: 测试中序线索化 快速找到某一个结点的前驱结点和后继结点" />
-    <MESSAGE value="feat: 中序线索化二叉树的遍历 不用递归 线性查找 效率更高～" />
-    <MESSAGE value="feat:堆排序" />
-    <MESSAGE value="feat:手写自己好理解的堆排序代码" />
-    <MESSAGE value="feat: 弱引用WeakHashMap" />
-    <MESSAGE value="feat: 弱引用WeakReference特点" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 弱引用WeakReference特点" />
+    <MESSAGE value="opt：数组实现队列优化" />
+    <MESSAGE value="opt: 冒泡排序注释调整" />
+    <MESSAGE value="feat:平衡二叉树的左旋和右旋方法" />
+    <MESSAGE value="feat: 平衡二叉树只需要进行左旋或者右旋的情况" />
+    <MESSAGE value="feat: 平衡二叉树的双旋转" />
+    <MESSAGE value="feat: hash算法" />
+    <MESSAGE value="feat: 不使用递归实现二分查找" />
+    <MESSAGE value="feat: 斐波那契数列的空间复杂度为1的实现，不需要使用递归！！！" />
+    <MESSAGE value="fix: 斐波那契数列增加n=0的处理" />
+    <MESSAGE value="feat: 斐波那契数列的四种实现" />
+    <MESSAGE value="feat: 动态规划实现零钱兑换问题" />
+    <MESSAGE value="feat: 动态规划实现零钱兑换问题继续思考" />
+    <MESSAGE value="feat: 回溯算法全排列问题，get到ArrayList和LinkedList构造方法继续传入集合的其实就是addAll" />
+    <MESSAGE value="--加入力扣对应的题目号" />
+    <MESSAGE value="feat: 全排列 回溯 深度优先遍历" />
+    <MESSAGE value="feat:全排列问题" />
+    <MESSAGE value="feat:bfs 查询一棵树的深度" />
+    <MESSAGE value="jvm类加载机制的坑，static方法和字段，被调用，就会初始化。如果字段被static还加了final，那么就不会初始化这个类" />
+    <MESSAGE value="解释为什么父类的静态常量被调用方引用，也不会实例化这个类，因为这个常量在【编译阶段】放在了调用方的常量池了【出自深入理解jvm】" />
+    <MESSAGE value="场景三：通过数组引用该类，不会导致该类初始化【深入理解jvm】" />
+    <MESSAGE value="单例第一种方法：懒汉式" />
+    <MESSAGE value="单例第二种方式：加入synchonized锁，然后再判断" />
+    <MESSAGE value="单例创建第三种：先判断，再加锁，DCL【指令重排序会导致失效】" />
+    <MESSAGE value="单例创建第四种：加入volatile关键字，禁止指令重排序" />
+    <MESSAGE value="单例创建的第五种方法：静态内部类，并从类加载机制分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="单例创建的第五种方法：静态内部类，并从类加载机制分析" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="202" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="653" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976@0.23.1680.976" />
+    <state x="653" y="202" key="#com.intellij.ide.util.MemberChooser/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state x="422" y="82" key="CommitChangelistDialog2" />
+    <state x="422" y="82" key="CommitChangelistDialog2/0.23.1680.976@0.23.1680.976" />
+    <state x="422" y="82" key="CommitChangelistDialog2/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state x="100" y="123" width="1480" height="776" key="DiffContextDialog" />
+    <state x="100" y="123" width="1480" height="776" key="DiffContextDialog/0.23.1680.976@0.23.1680.976" />
+    <state x="100" y="123" width="1480" height="776" key="DiffContextDialog/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right/1680.-41.1920.1006/0.23.1680.976@0.23.1680.976" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state x="349" y="150" key="SettingsEditor" />
+    <state x="349" y="150" key="SettingsEditor/0.23.1680.976@0.23.1680.976" />
+    <state x="349" y="150" key="SettingsEditor/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state x="440" y="251" key="Vcs.Push.Dialog.v2" />
+    <state x="440" y="251" key="Vcs.Push.Dialog.v2/0.23.1680.976@0.23.1680.976" />
+    <state x="440" y="251" key="Vcs.Push.Dialog.v2/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
+    <state x="505" y="238" key="search.everywhere.popup" />
+    <state x="505" y="238" key="search.everywhere.popup/0.23.1680.976@0.23.1680.976" />
+    <state x="505" y="238" key="search.everywhere.popup/1680.-41.1920.1057/0.23.1680.976@0.23.1680.976" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -844,457 +1078,234 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../datastructure/Algorithm/src/com/atguigu/kmp/ViolenceMatch.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java</url>
+          <line>311</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java</url>
+          <line>264</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1302</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1303</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/deadlock/HoldLockThread.java">
+    <entry file="file://$PROJECT_DIR$/../algorithm/src/cn/itcast/algorithm/graph/DepthFirstOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/DeadLockDemo.java">
+    <entry file="file://$PROJECT_DIR$/../algorithm/src/cn/itcast/algorithm/graph/Digraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../algorithm/src/cn/itcast/algorithm/graph/DirectedEdge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/../algorithm/src/cn/itcast/algorithm/graph/EdgeWeightedDigraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3502">
-          <caret line="249" column="30" selection-start-line="249" selection-start-column="21" selection-end-line="249" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SpinLockDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/lock/readWrite/ReadWriteLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="408">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/threadpool/ThreadPoolDemo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/sparsearray/SparseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/linkedlist/SingleLinkedListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/system/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="527">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="484" column="44" selection-start-line="484" selection-start-column="19" selection-end-line="484" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/system/ArrayCopyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/HelloGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/avl/AVLTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="35" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/graph/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/hashtab/HashTabDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/queue/ArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/queue/CircleArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
-          <folding>
-            <element signature="e#2013#2014#0" expanded="true" />
-            <element signature="e#2057#2058#0" expanded="true" />
-            <element signature="e#2104#2105#0" expanded="true" />
-            <element signature="e#2131#2132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/queue/MyArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/queue/MyArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/countdownlatch/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/blockqueue/producerconsumer/version3/BlockingQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/BinaryTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/singleton/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/ArrBinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="35" />
-          <folding>
-            <element signature="e#1568#1569#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/ThreaderBinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DataStructures/src/com/atguigu/tree/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/HeapTreeDemo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/arrbinary/ArrayBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="24" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/arrbinary/ArrayBinaryTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/load/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/binary/BinaryTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="246">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/binary/BinaryTreeDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/binary/HeroNode.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="122">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/HeroNode.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="-243">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/semaphore/SemaphoreDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="1133" column="25" lean-forward="true" selection-start-line="1133" selection-start-column="25" selection-end-line="1133" selection-end-column="25" />
           <folding>
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#999#1000#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1352#1353#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
+            <element signature="e#44444#44445#0" expanded="true" />
+            <element signature="e#44501#44502#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/threaded/ThreaderBinaryTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="287">
+          <caret line="263" column="35" lean-forward="true" selection-start-line="263" selection-start-column="35" selection-end-line="263" selection-end-column="35" />
           <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/MyHeapSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../datastructure_study/src/main/java/com/sunjinwei/tree/heap/MyHeapTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="e#9565#9566#0" expanded="true" />
-            <element signature="e#9632#9633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ref/ReferenceQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakHashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakHashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/WeakReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
-          <folding>
-            <element signature="e#9341#9342#0" expanded="true" />
-            <element signature="e#9377#9378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/WeakReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/SoftReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../juc/尚硅谷-互联网大厂高频重点面试题第2季(上)-思维导图+Demo代码/Demo代码/ReferenceQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunjinwei/reference/ReferenceQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+            <element signature="e#6269#6270#0" expanded="true" />
+            <element signature="e#7915#7916#0" expanded="true" />
+            <element signature="e#7953#7954#0" expanded="true" />
+            <element signature="e#8009#8010#0" expanded="true" />
+            <element signature="e#8073#8074#0" expanded="true" />
+            <element signature="e#9131#9132#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1351,24 +1362,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>datastructure_study</last-edited>
+          <last-edited>juc_study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

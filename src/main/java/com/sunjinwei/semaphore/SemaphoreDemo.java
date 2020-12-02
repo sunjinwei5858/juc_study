@@ -16,7 +16,7 @@ public class SemaphoreDemo {
 
         // 6部车抢3个车位
         for (int i = 1; i <= 6; i++) {
-            new Thread(() -> {
+            Thread thread = new Thread(() -> {
 
                 try {
                     // 抢占资源
@@ -32,7 +32,9 @@ public class SemaphoreDemo {
                     semaphore.release();
                 }
 
-            }, String.valueOf(i)).start();
+            }, String.valueOf(i));
+
+            thread.start();
 
         }
 
