@@ -226,9 +226,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/Codemao/tools/apache-maven-3.5.2/repository" />
-        <option name="mavenHome" value="$USER_HOME$/Codemao/tools/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="$USER_HOME$/Codemao/tools/apache-maven-3.5.2/conf/settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/other/tools/apache-maven-3.5.2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/other/tools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/other/tools/apache-maven-3.5.2/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
